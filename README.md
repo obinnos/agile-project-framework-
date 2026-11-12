@@ -8,10 +8,15 @@ It is tailored for Technical Coordinators, non-coding Project Managers, and Docu
 
 ### 📂 Featured Components
 
-*   **[Technical Project Coordination SOP (PROJECT_MANAGEMENT_SOP.md)](PROJECT_MANAGEMENT_SOP.md):** The core rulebook defining sprint lifecycles, automated routing, and quality controls. *This is a live example of structured process documentation.*
-*   **Issue & Pull Request Templates:** (Under Development) Standardized forms for clear task definition and code review procedures.
-*   **Workflow Automation Guide:** (Under Development) Detailed configuration for setting up automated project boards and issue tracking.
+*   **[Technical Project Coordination SOP (PROJECT_MANAGEMENT_SOP.md)](PROJECT_MANAGEMENT_SOP.md):** The core rulebook defining sprint lifecycles, automated routing, and quality controls.
+## Planned resources
 
+The following resources are planned and are not yet included in this repository:
+
+- Issue and pull request templates for clearer task definitions and reviews.
+- A workflow automation guide for GitHub project tracking.
+
+These items will be listed as available resources only after the files are complete and reviewed.
 ---
 
 ### 🚀 How to Leverage this Framework
